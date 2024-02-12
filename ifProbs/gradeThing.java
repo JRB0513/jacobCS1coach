@@ -23,7 +23,7 @@ class gradeThing
             System.out.println("You got an A, fantastic job.");
         }
         else{
-            System.out.println("I don't think you can get that kind of grade.");
+            System.out.println("I don't think there's a letter for that grade.");
         }
     }
 }
