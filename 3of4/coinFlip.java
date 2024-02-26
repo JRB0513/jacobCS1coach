@@ -13,7 +13,7 @@ class coinFlip
             System.out.println("You win!");
         }
         else if (sig == 0){
-            System.out.println("Waut, what? Oh, dropped my coin.");
+            System.out.println("Wait, what? Oh, dropped my coin.");
         }
         else{
             System.out.println("Sorry, you lose.");
