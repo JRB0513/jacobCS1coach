@@ -16,8 +16,8 @@ class minArray
         for (int in = 0; in < ray.length; in++){
             if (ray[in] < next){
                 le = ray[in];
+                next = ray[in];
             }
-            next = ray[in];
         }
         System.out.println("The smallest number is " + le);
     }
