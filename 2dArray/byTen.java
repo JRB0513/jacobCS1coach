@@ -3,7 +3,7 @@ class byTen
 {
     public static void main(String args[])
     {
-        int si = 8;
+        int si = 10;
         int [][] tab = new int [si][si];
         for (int i = 0; i < si; i++){
             for (int in = 0; in < si; in++){
