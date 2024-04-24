@@ -11,7 +11,6 @@ class reverseString
         for(int len = bob.length() - 1; len >= 0; len--){
             rev += bob.charAt(len);
         }
-        System.out.println("The word in reverse is " + rev);
-        
+        System.out.println("The word in reverse is " + rev);        
     }
 }
